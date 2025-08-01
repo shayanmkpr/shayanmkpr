@@ -6,6 +6,10 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
 
 ## Skills & Technologies
 
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
 ### Programming Languages  
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
@@ -29,6 +33,9 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
     <small style="margin-top: 5px;">Lua</small>
   </div>
 </div>
+
+</td>
+<td width="25%" valign="top">
 
 ### Frameworks & Libraries  
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
@@ -58,6 +65,9 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
   </div>
 </div>
 
+</td>
+<td width="25%" valign="top">
+
 ### Machine Learning
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
@@ -70,23 +80,18 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
   </div>
 </div>
 
+</td>
+<td width="25%" valign="top">
+
 ### Development Tools  
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Neovim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    <img alt="Vim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
     <small style="margin-top: 5px;">Neovim</small>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="tmux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <small style="margin-top: 5px;">tmux</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <small style="margin-top: 5px;">Linux</small>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <small style="margin-top: 5px;">Git</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -101,3 +106,7 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
     <small style="margin-top: 5px;">LaTeX</small>
   </div>
 </div>
+
+</td>
+</tr>
+</table>
