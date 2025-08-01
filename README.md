@@ -1,110 +1,103 @@
+Shayan Malekpour
+
+Software & ML Developer · Applied Math and EE Background · Data-Driven Science Enthusiast
+
+---
+
 ## Skills & Technologies
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Programming Languages  
-<div align="left">
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-    <br><small>Go</small>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+    <small style="margin-top: 5px;">Go</small>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <br><small>Python</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <small style="margin-top: 5px;">Python</small>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="Julia" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
-    <br><small>Julia</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Julia" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
+    <small style="margin-top: 5px;">Julia</small>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="MATLAB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-    <br><small>MATLAB</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="MATLAB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+    <small style="margin-top: 5px;">MATLAB</small>
   </div>
-  <div style="display: inline-block; text-align: center;">
-    <img alt="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-    <br><small>Lua</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Lua" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+    <small style="margin-top: 5px;">Lua</small>
   </div>
 </div>
-<br>
 
 ### Frameworks & Libraries  
-<div align="left">
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="gRPC" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
-    <br><small>gRPC</small>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="gRPC" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
+    <small style="margin-top: 5px;">gRPC</small>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="Fyne" width="30px" src="https://fyne.io/img/transparent.png" />
-    <br><small>Fyne</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Fyne" width="40px" src="https://fyne.io/img/transparent.png" />
+    <small style="margin-top: 5px;">Fyne</small>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="Tauri" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original-wordmark.svg" />
-    <br><small>Tauri</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Tauri" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original-wordmark.svg" />
+    <small style="margin-top: 5px;">Tauri</small>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="FastAPI" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
-    <br><small>FastAPI</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
+    <small style="margin-top: 5px;">FastAPI</small>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-    <br><small>Flask</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Flask" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <small style="margin-top: 5px;">Flask</small>
   </div>
-  <div style="display: inline-block; text-align: center;">
-    <img alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-    <br><small>Django</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <small style="margin-top: 5px;">Django</small>
   </div>
 </div>
-
-</td>
-<td width="50%" valign="top">
 
 ### Machine Learning
-<div align="left">
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-    <br><small>PyTorch</small>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="PyTorch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+    <small style="margin-top: 5px;">PyTorch</small>
   </div>
-  <div style="display: inline-block; text-align: center;">
-    <img alt="Keras" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
-    <br><small>Keras</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Keras" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
+    <small style="margin-top: 5px;">Keras</small>
   </div>
 </div>
-<br>
 
 ### Development Tools  
-<div align="left">
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="Neovim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-    <br><small>Neovim</small>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Neovim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    <small style="margin-top: 5px;">Neovim</small>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="tmux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-    <br><small>tmux</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="tmux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <small style="margin-top: 5px;">tmux</small>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <br><small>Linux</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <small style="margin-top: 5px;">Linux</small>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <br><small>Git</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <small style="margin-top: 5px;">Git</small>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <br><small>Docker</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <small style="margin-top: 5px;">Docker</small>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-    <br><small>Azure</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Azure" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+    <small style="margin-top: 5px;">Azure</small>
   </div>
-  <div style="display: inline-block; text-align: center;">
-    <img alt="LaTeX" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
-    <br><small>LaTeX</small>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="LaTeX" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
+    <small style="margin-top: 5px;">LaTeX</small>
   </div>
 </div>
-
-</td>
-</tr>
-</table>
