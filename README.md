@@ -8,7 +8,7 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### Programming Languages  
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
