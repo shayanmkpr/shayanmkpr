@@ -47,7 +47,7 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
     <small style="margin-top: 5px;">Fyne</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Tauri" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original-wordmark.svg" />
+    <img alt="Tauri" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" />
     <small style="margin-top: 5px;">Tauri</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
