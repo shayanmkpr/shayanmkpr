@@ -10,7 +10,7 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
 <tr>
 <td width="25%" valign="top">
 
-### Programming Languages  
+### Languages  
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
@@ -68,7 +68,7 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
 </td>
 <td width="25%" valign="top">
 
-### Machine Learning (& AI)
+### ML
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
