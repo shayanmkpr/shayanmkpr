@@ -59,10 +59,10 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
     <img alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
     <small style="margin-top: 5px;">Flask</small>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+<!--   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <small style="margin-top: 5px;">Django</small>
-  </div>
+  </div> -->
 </div>
 
 </td>
