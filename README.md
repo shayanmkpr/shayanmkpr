@@ -5,31 +5,31 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
 ---
 
 ## Skills & Technologies
-
-<table width="100%" style="border-spacing: 10px;">
+<table width="100%" style="border-spacing: 20px;">
+<table width="100%">
 <tr>
 <td width="25%" valign="top">
 
 ### Programming Languages  
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+    <img alt="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
     <small style="margin-top: 5px;">Go</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <small style="margin-top: 5px;">Python</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Julia" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
+    <img alt="Julia" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
     <small style="margin-top: 5px;">Julia</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="MATLAB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+    <img alt="MATLAB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
     <small style="margin-top: 5px;">MATLAB</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Lua" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+    <img alt="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
     <small style="margin-top: 5px;">Lua</small>
   </div>
 </div>
@@ -37,72 +37,76 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
 </td>
 <td width="25%" valign="top">
 
-### Frameworks & Libraries  
+### Frameworks
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="gRPC" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
+    <img alt="gRPC" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
     <small style="margin-top: 5px;">gRPC</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Fyne" width="40px" src="https://fyne.io/img/transparent.png" />
+    <img alt="Fyne" width="30px" src="https://fyne.io/img/transparent.png" />
     <small style="margin-top: 5px;">Fyne</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Tauri" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original-wordmark.svg" />
+    <img alt="Tauri" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original-wordmark.svg" />
     <small style="margin-top: 5px;">Tauri</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
+    <img alt="FastAPI" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
     <small style="margin-top: 5px;">FastAPI</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Flask" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <img alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
     <small style="margin-top: 5px;">Flask</small>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<!--   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <small style="margin-top: 5px;">Django</small>
-  </div>
+  </div> -->
 </div>
 
 </td>
 <td width="25%" valign="top">
 
-### Machine Learning
+### Machine Learning (& AI)
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="PyTorch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+    <img alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
     <small style="margin-top: 5px;">PyTorch</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Keras" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
+    <img alt="Keras" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
     <small style="margin-top: 5px;">Keras</small>
   </div>
 </div>
-
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Tensor Flow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+    <small style="margin-top: 5px;">Tensor Flow</small>
+  </div>
+</div>
 </td>
 <td width="25%" valign="top">
 
-### Development Tools  
+### Dev Tools  
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Vim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    <img alt="Vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
     <small style="margin-top: 5px;">Neovim</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <small style="margin-top: 5px;">Linux</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <small style="margin-top: 5px;">Docker</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Azure" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+    <img alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
     <small style="margin-top: 5px;">Azure</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="LaTeX" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
+    <img alt="LaTeX" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
     <small style="margin-top: 5px;">LaTeX</small>
   </div>
 </div>
