@@ -6,7 +6,6 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
 
 ## Skills & Technologies
 <table width="100%" style="border-spacing: 20px;">
-<table width="100%">
 <tr>
 <td width="25%" valign="top">
 
