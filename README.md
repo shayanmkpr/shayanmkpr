@@ -30,10 +30,6 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
     <small style="margin-top: 5px;">Rust</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="MATLAB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-    <small style="margin-top: 5px;">MATLAB</small>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
     <small style="margin-top: 5px;">Lua</small>
   </div>
