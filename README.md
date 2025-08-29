@@ -15,6 +15,11 @@ Software & ML Developer · Applied Math and EE Background · Data-Driven Science
     <img alt="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
     <small style="margin-top: 5px;">Go</small>
   </div>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Rust" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+    <small style="margin-top: 5px;">Go</small>
+  </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <small style="margin-top: 5px;">Python</small>
