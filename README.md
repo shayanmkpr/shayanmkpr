@@ -73,10 +73,6 @@ Software Engineer · Applied Math, Machine Learning and EE Background
     <small style="margin-top: 5px;">(btw)</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <small style="margin-top: 5px;">Linux</small>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <small style="margin-top: 5px;">Docker</small>
   </div>
