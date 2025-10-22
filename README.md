@@ -40,10 +40,7 @@ Software Engineer · Applied Math, Machine Learning and EE Background
     <img alt="Fyne" width="30px" src="https://fyne.io/img/transparent.png" />
     <small style="margin-top: 5px;">Fyne</small>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="FastAPI" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
-    <small style="margin-top: 5px;">FastAPI</small>
-  </div>
+
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <small style="margin-top: 5px;">Django</small>
