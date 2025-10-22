@@ -1,6 +1,6 @@
 Shayan Malekpour
 
-Software & ML Developer · Applied Math and EE Background · Data-Driven Science Enthusiast
+Software Engineer · Applied Math, Machine Learning and EE Background
 
 ---
 
