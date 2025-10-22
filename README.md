@@ -13,23 +13,23 @@ Software Engineer · Applied Math, Machine Learning and EE Background
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-    <small style="margin-top: 5px;">Go</small>
+    <small style="margin-top: 5px;"></small>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <small style="margin-top: 5px;">Python</small>
+    <small style="margin-top: 5px;"></small>
   </div>
   
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-    <small style="margin-top: 5px;">Lua</small>
+    <small style="margin-top: 5px;"></small>
   </div>
 </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <small style="margin-top: 5px;">Javascript</small>
+    <small style="margin-top: 5px;"></small>
   </div>
 
 </td>
@@ -75,7 +75,7 @@ Software Engineer · Applied Math, Machine Learning and EE Background
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-    <small style="margin-top: 5px;">Vim (btw)</small>
+    <small style="margin-top: 5px;">(btw)</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
