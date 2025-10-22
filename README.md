@@ -29,7 +29,7 @@ Software Engineer · Applied Math, Machine Learning and EE Background
 
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <small style="margin-top: 5px;">Python</small>
+    <small style="margin-top: 5px;">Javascript</small>
   </div>
 
 </td>
