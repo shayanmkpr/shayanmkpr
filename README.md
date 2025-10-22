@@ -21,15 +21,6 @@ Software Engineer · Applied Math, Machine Learning and EE Background
     <small style="margin-top: 5px;">Python</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Julia" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
-    <small style="margin-top: 5px;">Julia</small>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Rust" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" />
-    <small style="margin-top: 5px;">Rust</small>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
     <small style="margin-top: 5px;">Lua</small>
   </div>
