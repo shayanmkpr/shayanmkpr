@@ -20,12 +20,7 @@ Software Engineer · Applied Math, Machine Learning and EE Background
     <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <small style="margin-top: 5px;"></small>
   </div>
-  
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-    <small style="margin-top: 5px;"></small>
-  </div>
-</div>
+
 
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
