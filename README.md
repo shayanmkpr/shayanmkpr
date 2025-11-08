@@ -31,13 +31,13 @@ Software Engineer · Applied Math, Machine Learning and EE Background
 <td width="25%" valign="top">
 
 ### Frameworks
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="gRPC" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
-    <small style="margin-top: 5px;">gRPC</small>
-  </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Fyne" width="30px" src="https://fyne.io/img/transparent.png" />
+    <small style="margin-top: 5px;">Fyne</small>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="FastAPI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
     <small style="margin-top: 5px;">Fyne</small>
   </div>
 
