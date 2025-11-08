@@ -69,7 +69,7 @@ Software Engineer · Applied Math, Machine Learning and EE Background
 </td>
 <td width="25%" valign="top">
 
-### Dev Tools  
+### Dev Tools (and others)
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
@@ -80,8 +80,8 @@ Software Engineer · Applied Math, Machine Learning and EE Background
     <small style="margin-top: 5px;">Docker</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-    <small style="margin-top: 5px;">Azure</small>
+    <img alt="gRPC" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <small style="margin-top: 5px;">gRPC</small>
   </div>
 </div>
 
