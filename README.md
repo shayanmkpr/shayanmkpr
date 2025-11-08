@@ -56,19 +56,6 @@ Software Engineer · Applied Math, Machine Learning and EE Background
 </td>
 <td width="25%" valign="top">
 
-### ML
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-    <small style="margin-top: 5px;">PyTorch</small>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Keras" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
-    <small style="margin-top: 5px;">Keras</small>
-  </div>
-</td>
-<td width="25%" valign="top">
-
 ### Dev Tools (and others)
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
@@ -82,6 +69,14 @@ Software Engineer · Applied Math, Machine Learning and EE Background
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="gRPC" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <small style="margin-top: 5px;">gRPC</small>
+  </div>
+    <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+    <small style="margin-top: 5px;">PyTorch</small>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Keras" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
+    <small style="margin-top: 5px;">Keras</small>
   </div>
 </div>
 
