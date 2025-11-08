@@ -31,6 +31,12 @@ Software Engineer · Applied Math, Machine Learning and EE Background
 <td width="25%" valign="top">
 
 ### Frameworks
+  
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
+    <img alt="Fiber" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-plain.svg" />
+    <small style="margin-top: 5px;">Fiber</small>
+  </div>
+  
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="Fyne" width="30px" src="https://fyne.io/img/transparent.png" />
     <small style="margin-top: 5px;">Fyne</small>
@@ -67,7 +73,7 @@ Software Engineer · Applied Math, Machine Learning and EE Background
     <small style="margin-top: 5px;">Docker</small>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="gRPC" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img alt="gRPC" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
     <small style="margin-top: 5px;">gRPC</small>
   </div>
     <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
