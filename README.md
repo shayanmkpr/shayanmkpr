@@ -38,7 +38,7 @@ Software Engineer · Applied Math, Machine Learning and EE Background
 
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
     <img alt="FastAPI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-    <small style="margin-top: 5px;">Fyne</small>
+    <small style="margin-top: 5px;">FastAPI</small>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
