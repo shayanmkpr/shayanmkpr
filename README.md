@@ -47,8 +47,7 @@ Software Engineer · Applied Math, Machine Learning and EE Background
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; min-width: 60px;">
-    <img alt="Electron" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg
-" />
+    <img alt="Electron" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
     <small style="margin-top: 5px;">Electron</small>
   </div>
 </div>
